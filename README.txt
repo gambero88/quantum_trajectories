@@ -5,8 +5,7 @@ The content of the folders is the following:
     /fermions: quantum trajectories for Fermi systems in one dimension
 
     /bosons: quantum trajectories for a double well system
-             It is possible to solve the evolution of both pure and mixed states. The functions containing 'Rho'
-             in their names solve the stochastic master equation.
+             It is possible to solve the evolution of both pure and mixed states. The functions containing 'Rho' in their names solve the stochastic master equation.
              
 The simulation starts by filling the input file datafile.m and running the MATLAB function RunSim.m
 
